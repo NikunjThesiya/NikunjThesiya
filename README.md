@@ -1,4 +1,4 @@
-<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/nikunjthesiyabanner.svg" alt="Nikunj Thesiya GitHub header image">
+<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/nikunjthesiyabanner.png" alt="Nikunj Thesiya GitHub header image">
 
 - 👋 Hi, I’m @NikunjThesiya
 - 👀 I’m Front End Developer | Self Taught Programmer
