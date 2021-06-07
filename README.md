@@ -7,7 +7,9 @@
 </p>
 <p><a href="https://www.nikunjthesiya.tech/" style="text-decoration: none; font-size:"22px">➡️ Check out My Website</a></p>
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=34> : nikunjthesiya.js@gmail.com
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=34>
+
+nikunjthesiya.js@gmail.com
 
   
 
