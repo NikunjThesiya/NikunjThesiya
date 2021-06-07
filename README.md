@@ -4,7 +4,7 @@
 - 💞️ I’m available for freelance front end development projects
 - 💻 Expertise in Responsive Design, React, Tailwind CSS, Styled-Component, NextJS etc.
 - 📫 Contact me : nikunjthesiya.js@gmail.com
-- 🙂 Portfolio : https://nikunjthesiyajs.netlify.app/
+- 🙂 Portfolio : https://www.nikunjthesiya.tech/
 
 <!---
 NikunjThesiya/NikunjThesiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
