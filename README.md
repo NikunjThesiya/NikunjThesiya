@@ -16,6 +16,20 @@
 
 <p align="left"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/nodejs.png" height=74> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/express.png" height=74> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/mongodb.png" height=74></p>
 
+## Some of my Projects
+
+<div>
+  <a href=""><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/amazon-pro.png" width="45%"></a> &nbsp; &nbsp; &nbsp;<a href="" ><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/google-pro.png" width="45%"></a>
+ </div>
+ <br/>
+ <div>
+  <a href="" ><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/instagram-pro.png" width="45%"></a> &nbsp; &nbsp; &nbsp;<a href="" align="right"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/music-pro.png" width="45%"></a>
+ </div>
+ <br/>
+  <div>
+  <a href="" align="left"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/portfolio-pro.png" width="45%"></a>
+ </div>
+
 ## Mail Me
 
 <p align="left"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/gmail.png" height=50> &nbsp;<a href="mailto:nikunjthesiya.js@gmail.com" align="left"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/mail.png" height=50></a></p>
