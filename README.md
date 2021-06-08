@@ -5,7 +5,7 @@
   <a href="https://twitter.com/NikunjThesiya2"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/twitterlogo.png" height=38></a>  <a href="https://www.linkedin.com/in/nikunjthesiya/"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/linkedinlogo.png" height=38></a>  <a href="https://www.instagram.com/ll_nikunj.thesiya_ll/"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/instagramlogo.png" height=38></a>  <a href="https://open.spotify.com/user/31crz5k4dzevnbmicr5lcng6pdne?si=1edb9d19cd7e4461"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/spotifylogo.png" height=38></a>
 
 </p>
-<p><a href="https://www.nikunjthesiya.tech/" target="_blank"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/checkoutportfolio.png" height=55></a></p>
+<p><a href="https://www.nikunjthesiya.tech/" target="_blank"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/checkoutportfolio.png"></a></p>
 
 ![test image size](https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/checkoutportfolio.png){:class="img-responsive"}
 ![test image size](https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/checkoutportfolio.png){:height="50%" width="50%"}
