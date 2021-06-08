@@ -16,18 +16,18 @@
 
 <p align="left"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/nodejs.png" height=74> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/express.png" height=74> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/mongodb.png" height=74></p>
 
-## Some of my Projects
+## See Live - Some of my Projects
 
 <div>
-  <a href=""><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/amazon-pro.png" width="45%"></a> &nbsp; &nbsp; &nbsp;<a href="" ><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/google-pro.png" width="45%"></a>
+  <a href="https://amazon-next-nik.vercel.app/"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/amazon-pro.png" alt="Amazon Clone By Nikunj Thesiya" width="45%"></a> &nbsp; &nbsp; &nbsp;<a href="https://google-next.vercel.app/" ><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/google-pro.png" alt="Google clone by Nikunj Thesiya" width="45%"></a>
  </div>
  <br/>
  <div>
-  <a href="" ><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/instagram-pro.png" width="45%"></a> &nbsp; &nbsp; &nbsp;<a href="" align="right"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/music-pro.png" width="45%"></a>
+  <a href="https://instanik.netlify.app/" ><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/instagram-pro.png" alt="Instagram clone by Nikunj Thesiya" width="45%"></a> &nbsp; &nbsp; &nbsp;<a href="https://music-nik.netlify.app/"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/music-pro.png" alt="Music App by Nikunj Thesiya" width="45%"></a>
  </div>
  <br/>
   <div>
-  <a href="" align="left"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/portfolio-pro.png" width="45%"></a>
+  <a href="https://www.nikunjthesiya.tech/"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/portfolio-pro.png" alt="Portfolio by Nikunj Thesiya" width="45%"></a>
  </div>
 
 ## Mail Me
