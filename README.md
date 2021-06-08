@@ -7,7 +7,7 @@
 </p>
 <p><a href="https://www.nikunjthesiya.tech/" target="_blank"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/checkoutportfolio.png"></a></p>
 
-![image](https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/checkoutportfolio.png 50)
+![image](https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/checkoutportfolio.png)
 
 
 - 👋 Hi, I’m @NikunjThesiya
