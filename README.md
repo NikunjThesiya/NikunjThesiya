@@ -14,15 +14,13 @@
 
 <p><a href="https://www.nikunjthesiya.tech/"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/checkoutimage.png" width=400></a></p>
 
+<h3 align="left">Skills : </h3>
+
+<p><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/adobexd.png" height=100> <img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/figma.png" height=100> <img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/sass.png" height=100> <img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/javascript.png" height=100> <img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/jquery.png" height=100> <img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/react.png" height=100> <img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/materialui.png" height=100> <img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/styled-components.png" height=100> <img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/tailwindcss.png" height=100> <img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/semanticui.png" height=100> <img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/redux.png" height=100> <img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/framer.png" height=100> <img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/firebase.png" height=100> <img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/github.png" height=100> <img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/npm.png" height=100></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikunjthesiya&label=Profile%20views&color=0e75b6&style=flat" alt="nikunjthesiya" /> </p>
 
-- 👋 Hi, I’m @NikunjThesiya
-- 👀 I’m Front End Developer | Self Taught Programmer
-- 🌱 I’m currently learning NodeJS & MERN stack.
-- 💞️ I’m available for freelance front end development projects
-- 💻 Expertise in Responsive Design, React, Tailwind CSS, Styled-Component, NextJS etc.
-- 📫 Contact me : nikunjthesiya.js@gmail.com
-- 🙂 Portfolio : https://www.nikunjthesiya.tech/
+
 
 <!---
 NikunjThesiya/NikunjThesiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
