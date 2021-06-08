@@ -2,9 +2,9 @@
 <h1 align="center">I'm Nikunj Thesiya</h1>
 <h2 align="center">A passionate Front End developer from India</h2>
 
-<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/hello.png" alt="Nikunj Thesiya GitHub header image">
+<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/hello1.png" alt="Nikunj Thesiya GitHub header image">
 
-<a href="https://www.nikunjthesiya.tech/" target="_blank"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/nikunjthesiyabanner.png" alt="Nikunj Thesiya GitHub header image"></a>
+<a href="https://www.nikunjthesiya.tech/" target="_blank"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/hello2.png" alt="Nikunj Thesiya GitHub header image"></a>
 
 ## My Portfolio 👇
 
