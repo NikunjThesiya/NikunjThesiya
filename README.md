@@ -24,7 +24,7 @@
 
 <h3 align="left">Mail Me : </h3>
 
-<p align="left"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/gmail.png" height=70> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/mail.png" height=70></p>
+<p align="left"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/gmail.png" height=60> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/mail.png" height=60></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikunjthesiya&label=Profile%20views&color=0e75b6&style=flat" alt="nikunjthesiya" /> </p>
 
