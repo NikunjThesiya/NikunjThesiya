@@ -1,4 +1,5 @@
-<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, <br/><br/> I'm Nikunj Thesiya</h1>
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,</h1>
+<h1 align="center">I'm Nikunj Thesiya</h1>
 <h3 align="center">A passionate Front End developer from India</h3>
 
 <a href="https://www.nikunjthesiya.tech/" target="_blank"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/nikunjthesiyabanner.png" alt="Nikunj Thesiya GitHub header image"></a>
