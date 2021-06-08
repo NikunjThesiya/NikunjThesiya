@@ -9,7 +9,8 @@
 
 ![test image size](https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/checkoutportfolio.png){:class="img-responsive"}
 ![test image size](https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/checkoutportfolio.png){:height="50%" width="50%"}
-![test image size](https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/checkoutportfolio.png){:height="700px" width="400px"}
+![image](https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/checkoutportfolio.png)
+
 
 - 👋 Hi, I’m @NikunjThesiya
 - 👀 I’m Front End Developer | Self Taught Programmer
