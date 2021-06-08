@@ -1,6 +1,5 @@
 <h3 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,</h3>
 <h1 align="center">I'm Nikunj Thesiya</h1>
-<h2 align="center">A passionate Front End developer from India</h2>
 
 <img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/hello1.png" alt="Nikunj Thesiya GitHub header image">
 
