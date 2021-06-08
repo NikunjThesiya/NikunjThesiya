@@ -8,19 +8,19 @@
 
 <p><a href="https://www.nikunjthesiya.tech/"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/checkoutimage.png" width=400></a></p>
 
-<h3 align="left">Stuff I'm Really Good at : </h3>
+## Stuff I'm Really Good at
 
 <p align="left"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/adobexd.png" height=75> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/figma.png" height=75> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/bootstrap.png" height=75> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/sass.png" height=75> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/javascript.png" height=75> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/jquery.png" height=75> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/react.png" height=75> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/nextjs.png" height=75> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/materialui.png" height=75> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/styled-components.png" height=75> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/tailwindcss.png" height=75> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/semanticui.png" height=75> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/redux.png" height=75> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/framer.png" height=75> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/firebase.png" height=75> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/github.png" height=75> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/npm.png" height=75></p>
 
-<h3 align="left">Currently I am Learning : </h3>
+## Currently I am Learning
 
 <p align="left"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/nodejs.png" height=75> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/express.png" height=75> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/mongodb.png" height=75></p>
 
-<h3 align="left">Mail Me : </h3>
+## Mail Me
 
 <p align="left"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/gmail.png" height=50> &nbsp;<a href="mailto:nikunjthesiya.js@gmail.com" align="left"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/mail.png" height=50></a></p>
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 
 <p>
   <a href="https://twitter.com/NikunjThesiya2"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/twitterlogo.png" height=44></a> &nbsp; &nbsp;<a href="https://www.linkedin.com/in/nikunjthesiya/"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/linkedinlogo.png" height=44></a> &nbsp; &nbsp;<a href="https://www.instagram.com/ll_nikunj.thesiya_ll/"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/instagramlogo.png" height=44></a> &nbsp; &nbsp;<a href="https://open.spotify.com/user/31crz5k4dzevnbmicr5lcng6pdne?si=1edb9d19cd7e4461"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/spotifylogo.png" height=44></a>
