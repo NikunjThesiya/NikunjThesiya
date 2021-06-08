@@ -26,10 +26,8 @@
 
 <p align="left" width="100%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikunjthesiya&show_icons=true&locale=en&layout=compact" alt="nikunjthesiya" width="46%"/><img align="right" src="https://github-readme-stats.vercel.app/api?username=nikunjthesiya&show_icons=true&locale=en" alt="nikunjthesiya" width="46%"/></p>
 
-__
-__
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nikunjthesiya&" alt="nikunjthesiya" width="60%"/></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nikunjthesiya&" alt="nikunjthesiya" width="60%"/></p>
 
 <!---
 NikunjThesiya/NikunjThesiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
