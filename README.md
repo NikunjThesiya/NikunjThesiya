@@ -26,7 +26,8 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikunjthesiya" alt="nikunjthesiya" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord
+"><img src="https://github-profile-trophy.vercel.app/?username=nikunjthesiya" alt="nikunjthesiya" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikunjthesiya&show_icons=true&locale=en&layout=compact" alt="nikunjthesiya" /></p>
 
