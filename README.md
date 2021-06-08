@@ -1,4 +1,4 @@
-<a href="https://www.nikunjthesiya.tech/"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/nikunjthesiyabanner.png" alt="Nikunj Thesiya GitHub header image"></>
+<a href="https://www.nikunjthesiya.tech/"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/nikunjthesiyabanner.png" alt="Nikunj Thesiya GitHub header image"></a>
 
 <p>
   
