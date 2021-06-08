@@ -14,6 +14,7 @@
 
 <p><a href="https://www.nikunjthesiya.tech/"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/checkoutimage.png" width=400></a></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikunjthesiya&label=Profile%20views&color=0e75b6&style=flat" alt="nikunjthesiya" /> </p>
 
 - 👋 Hi, I’m @NikunjThesiya
 - 👀 I’m Front End Developer | Self Taught Programmer
@@ -23,7 +24,7 @@
 - 📫 Contact me : nikunjthesiya.js@gmail.com
 - 🙂 Portfolio : https://www.nikunjthesiya.tech/
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikunjthesiya&label=Profile%20views&color=0e75b6&style=flat" alt="nikunjthesiya" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikunjthesiya" alt="nikunjthesiya" /></a> </p>
 
