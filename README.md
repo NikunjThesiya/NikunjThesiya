@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikunj Thesiya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Front End developer from India 🇮🇳</h3>
 
 <a href="https://www.nikunjthesiya.tech/" target="_blank"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/nikunjthesiyabanner.png" alt="Nikunj Thesiya GitHub header image"></a>
 
