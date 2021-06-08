@@ -18,7 +18,7 @@
 
 <h3 align="left">Mail Me : </h3>
 
-<p align="left"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/gmail.png" height=60> &nbsp;<a href="mailto:nikunjthesiya.js@gmail.com" align="left"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/mail.png" height=60></a></p>
+<p align="left"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/gmail.png" height=50> &nbsp;<a href="mailto:nikunjthesiya.js@gmail.com" align="left"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/mail.png" height=50></a></p>
 
 <h3 align="left">Connect with me:</h3>
 
