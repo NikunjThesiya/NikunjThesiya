@@ -24,7 +24,7 @@
 - 📫 Contact me : nikunjthesiya.js@gmail.com
 - 🙂 Portfolio : https://www.nikunjthesiya.tech/
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikunjthesiya&show_icons=true&locale=en&layout=compact" alt="nikunjthesiya" width="50%"/> &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nikunjthesiya&show_icons=true&locale=en" alt="nikunjthesiya" width="50%"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikunjthesiya&show_icons=true&locale=en&layout=compact" alt="nikunjthesiya" width="48%"/> &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nikunjthesiya&show_icons=true&locale=en" alt="nikunjthesiya" width="48%"/></p>
 <br/>
 <br/>
 <br/>
