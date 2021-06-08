@@ -1,6 +1,6 @@
 <a href="https://www.nikunjthesiya.tech/" target="_blank"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/nikunjthesiyabanner.png" alt="Nikunj Thesiya GitHub header image"></a>
 
-<p>
+<p align="center">
   
   <a href="https://twitter.com/NikunjThesiya2"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/twitterlogo.png" height=44></a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/nikunjthesiya/"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/linkedinlogo.png" height=44></a> &nbsp; &nbsp; <a href="https://www.instagram.com/ll_nikunj.thesiya_ll/"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/instagramlogo.png" height=44></a> &nbsp; &nbsp; <a href="https://open.spotify.com/user/31crz5k4dzevnbmicr5lcng6pdne?si=1edb9d19cd7e4461"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/spotifylogo.png" height=44></a>
 
