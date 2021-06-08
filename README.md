@@ -15,7 +15,7 @@
 
 ## Currently I am Learning
 
-<p align="left"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/nodejs.png" height=74> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/express.png" height=74> &nbsp;<img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/mongodb.png" height=74></p>
+<p align="left"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/nodejs.png" height=74> &nbsp; <img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/express.png" height=74> &nbsp; <img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/mongodb.png" height=74></p>
 
 ## See Live - Some of my Projects
 
