@@ -7,6 +7,10 @@
 </p>
 <p><a href="https://www.nikunjthesiya.tech/" target="_blank"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/checkoutportfolio.png" height=55></a></p>
 
+![test image size](https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/checkoutportfolio.png){:class="img-responsive"}
+![test image size](https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/checkoutportfolio.png){:height="50%" width="50%"}
+![test image size](https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/checkoutportfolio.png){:height="700px" width="400px"}
+
 - 👋 Hi, I’m @NikunjThesiya
 - 👀 I’m Front End Developer | Self Taught Programmer
 - 🌱 I’m currently learning NodeJS & MERN stack.
