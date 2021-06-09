@@ -5,10 +5,6 @@
 
 <a href="https://www.nikunjthesiya.tech/" target="_blank"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/hello2.png" alt="Nikunj Thesiya GitHub header image"></a>
 
-## Spotify Playing 🎧
-
-[![Spotify](https://spotify-now-playing-seven-livid.vercel.app/api/spotify)](https://open.spotify.com/user/31crz5k4dzevnbmicr5lcng6pdne?si=f1b32bb7a67644f5)
-
 ## My Portfolio 👇
 
 <p><a href="https://www.nikunjthesiya.tech/"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/checkoutimage.png" width=400></a></p>
