@@ -1,9 +1,9 @@
-<h3 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">,</h3>
+<h3 align="center">Hello!</h3>
 <h1 align="center">Nice To See You. 😊</h1>
 
 <img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/hello1.png" alt="Nikunj Thesiya GitHub header image">
 
-<a href="https://www.nikunjthesiya.tech/" target="_blank"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/hello2.png" alt="Nikunj Thesiya GitHub header image"></a>
+<a href="https://www.nik.vercel.app/" target="_blank"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/hello2.png" alt="Nikunj Thesiya GitHub header image"></a>
 
 ## My Portfolio 👇
 
