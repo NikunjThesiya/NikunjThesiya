@@ -24,7 +24,7 @@
  </div>
  <br/>
   <div>
-  <a href="https://www.nikunjthesiya.tech/"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/portfolio-pro.png" alt="Portfolio by Nikunj Thesiya" width="45%"></a>
+  <a href="https://nik.vercel.app/"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/portfolio-pro.png" alt="Portfolio by Nikunj Thesiya" width="45%"></a>
  </div>
 
 ## Mail Me
