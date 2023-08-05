@@ -7,7 +7,7 @@
 
 ## My Portfolio 👇
 
-<p><a href="https://www.nikunjthesiya.tech/"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/checkoutimage.png" width=400></a></p>
+<p><a href="https://www.nik.vercel.app/"><img src="https://github.com/NikunjThesiya/NikunjThesiya/blob/main/Images/checkoutimage.png" width=400></a></p>
 
 ## Stuff I'm Really Good at
 
